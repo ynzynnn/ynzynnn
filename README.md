@@ -1,5 +1,5 @@
 
-<h1 align="center">🌸⚡ Yooo~ I'm Septian ⚡🌸</h1>
+<h1 align="center">⚡ Yooo~ I'm Septian ⚡</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/UQJlZ2NY4TLkQ/giphy.gif" width="200" alt="anime hacker gif" />
 </p>
@@ -46,10 +46,9 @@ Bandung, Jawa Barat
 
 ---
 
-### 🌐 Connect With Me (Senpai~)
+### 🌐 Connect With Me (Septian~)
 <p align="center">
   <a href="https://discord.com/tianmyylup" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Razka%230001-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
