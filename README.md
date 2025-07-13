@@ -38,17 +38,12 @@ Bandung, Jawa Barat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
 </div>
 
-### 🧪 Stats & Logs
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ynzynnn&show_icons=true&theme=radical&hide_border=true" width="440"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ynzynnn&theme=radical&hide_border=true" width="420"/>
-</p>
-
 ---
 
 ### 🌐 Connect With Me (Septian~)
 <p align="center">
-  <a href="https://discord.com/tianmyylup" target="_blank">
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-tianmyylup-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
