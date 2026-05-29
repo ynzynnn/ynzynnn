@@ -22,8 +22,9 @@ Bandung, Jawa Barat
 
 > skills
 - print("Hello, World!") in multiple languages 😎
-- Bikin web sederhana pake PHP & HTML
-- Sedang menjinakkan Python 🐉
+- Retri Anti Indomaret
+- Jamsut Di epep
+- Gatau Lagi
 ```
 
 ---
